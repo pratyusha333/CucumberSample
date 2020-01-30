@@ -33,7 +33,7 @@ Then bill is generated with final amount
     Then Login is successful
     Examples: 
       | user    | password    |
-      | Lalitha | password123 |
+      | Lalitha | password1234 |
       | pratyu  |      123456 |
       
       @datadriven
