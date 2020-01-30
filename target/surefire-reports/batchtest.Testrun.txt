@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: batchtest.Testrun
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.04 sec <<< FAILURE!
+Searching for a product(Pixel store pos)  Time elapsed: 0.049 sec  <<< ERROR!
+java.lang.NullPointerException
+	at stepglue.Stepdef.larry_verifies_the_product_availability(Stepdef.java:37)
+	at ?.Larry verifies the product availability(file:demo28jan.feature:42)
+
